@@ -1,0 +1,29 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:       example.ie
+descr:        Brian Murray
+descr:        Natural Person
+descr:        Discretionary Name
+admin-c:      AJG385-IEDR
+tech-c:       HH36-IEDR
+registration: 10-June-2009
+renewal:      10-June-2017
+holder-type:  Billable
+locked:       NO
+ren-status:   Active
+in-zone:      1
+nserver:      ns1.digitalocean.com
+nserver:      ns2.digitalocean.com
+nserver:      ns3.digitalocean.com
+source:       IEDR
+
+person:       Brian Murray
+nic-hdl:      AJG385-IEDR
+source:       IEDR
+
+person:       NamesCo Hostmaster
+nic-hdl:      HH36-IEDR
+source:       IEDR
+

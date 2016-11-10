@@ -1,0 +1,33 @@
+Domain Name: EXAMPLE.INFO
+Domain ID: D1050756-LRMS
+WHOIS Server:
+Referral URL:
+Updated Date: 2016-10-08T22:21:03Z
+Creation Date: 2001-10-08T16:33:16Z
+Registry Expiry Date: 2017-10-08T16:33:16Z
+Sponsoring Registrar: Afilias
+Sponsoring Registrar IANA ID: 700023
+Domain Status: inactive https://icann.org/epp#inactive
+Domain Status: autoRenewPeriod https://icann.org/epp#autoRenewPeriod
+Registrant ID: C2283145-LRMS
+Registrant Name: Afilias
+Registrant Organization: Afilias
+Registrant Street: 4th Floor, International House
+Registrant Street: 3 Harbourmaster Place
+Registrant Street: IFSC
+Registrant City: Dublin
+Registrant State/Province:
+Registrant Postal Code: D01 K8F1
+Registrant Country: IE
+Registrant Phone: +353.18541100
+Registrant Phone Ext:
+Registrant Fax: +353.17918569
+Registrant Fax Ext:
+Registrant Email: domainadmin@afilias.info
+Name Server:
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2016-11-10T07:58:56Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Access to AFILIAS WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Afilias registry database. The data in this record is provided by Afilias Limited for informational purposes only, and Afilias does not guarantee its accuracy.  This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to(a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Afilias reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.

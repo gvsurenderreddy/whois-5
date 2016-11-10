@@ -1,0 +1,101 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/products-and-services/services/whois/whois-special-notice/
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [68.41.87.28 REQUEST] >> example.YT
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      example.yt
+status:      ACTIVE
+hold:        NO
+holder-c:    SA7506-FRNIC
+admin-c:     SA7490-FRNIC
+tech-c:      JE1577-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL85203-FRNIC
+registrar:   1API GmbH
+Expiry Date: 18/04/2017
+created:     07/04/2014
+last-update: 18/04/2016
+source:      FRNIC
+
+ns-list:     NSL85203-FRNIC
+nserver:     div.cx
+nserver:     inc.al
+nserver:     mul.si
+source:      FRNIC
+
+registrar:   1API GmbH
+type:        Isp Option 1
+address:     Talstrasse 27
+address:     66424 HOMBURG
+country:     DE
+phone:       +49 6841 6984200
+fax-no:      +49 6841 6984299
+e-mail:      info@1api.net
+website:     http://www.1api.net
+anonymous:   NO
+registered:  03/09/2008
+source:      FRNIC
+
+nic-hdl:     SA7506-FRNIC
+type:        ORGANIZATION
+contact:     Systems Administrator
+address:     Privacy Protection Service Ltd.
+address:     Trojan House, Top Floor, 34 Arcadia Avenue
+address:     N3 2JU London
+country:     GB
+phone:       +49 22885429451
+e-mail:      trustee@privacy-protection-service.com
+registrar:   1API GmbH
+changed:     03/04/2012 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+eligstatus:  ok
+eligsource:  REGISTRY
+eligdate:    13/10/2014 18:37:17
+reachmedia:  email
+reachstatus: ok
+reachsource: REGISTRY
+reachdate:   13/10/2014 18:37:17
+source:      FRNIC
+
+nic-hdl:     SA7490-FRNIC
+type:        PERSON
+contact:     Systems Administrator
+address:     Trojan House, Top Floor, 34 Arcadia Avenue
+address:     N3 2JU London
+country:     GB
+phone:       +49 22885429451
+e-mail:      trustee@privacy-protection-service.com
+registrar:   1API GmbH
+changed:     02/04/2012 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     JE1577-FRNIC
+type:        PERSON
+contact:     Johannes Erdfelt
+address:     5309 221st Ave NE
+address:     98053 Redmond
+address:     WA
+country:     US
+phone:       +1 4252432448
+e-mail:      johannes@erdfelt.com
+registrar:   1API GmbH
+changed:     04/04/2014 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

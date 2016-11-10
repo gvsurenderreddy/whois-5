@@ -1,0 +1,56 @@
+; This data is provided by DM REGISTRY for information purposes only in
+; accordance with the DM REGISTRY TLD Privacy Policy. It is intended to
+; assist persons to obtain information about or related to domain name
+; registration records. DM REGISTRY does not guarantee its accuracy.
+; By submitting this query, you agree to abide as follows:
+;
+; You agree to use this data only for lawful purposes and that under no
+; circumstances will you permit this data to
+; 1) allow, enable, or otherwise support the transmission of mass
+;    unsolicited, commercial advertising or solicitations via e-mail,
+;    telephone or fax (spam); nor
+; 2) enable high volume, automated, electronic processes to the systems
+;    of DM REGISTRY or Registrars, except as reasonably required to
+;    register new domain names or modify existing registrations; nor
+; 3) will you generate a database of registered domain names and
+;    registrant data.
+;
+; These terms may be changed without prior notice.
+; By submitting this query, you agree to abide by this policy.
+
+domain name: EXAMPLE.DM
+registrar: DNS Inc.
+status: ACTIVE
+created date: 2012-06-20 00:00:00
+updated date: 2016-09-29 07:52:17
+expiration date: 2018-06-20 17:32:17
+
+owner-contact: P-DNS40
+owner-organization: Domain Name Services Inc.
+owner-name: Domain Name Services Inc.
+owner-street: P.O Box 1671
+owner-city: Roseau
+owner-country: DM
+
+admin-contact: P-DWT34
+admin-organization: Domain Name Services Inc
+admin-name: Domain Trustee
+admin-street: P.O Box 1671
+admin-city: Roseau
+admin-country: DM
+
+tech-contact: P-TED27
+tech-organization: Domain Name Services Inc
+tech-name: Technical Director
+tech-street: P.O Box 1671
+tech-city: Roseau
+tech-country: DM
+
+billing-contact: P-DWT34
+billing-organization: Domain Name Services Inc
+billing-name: Domain Trustee
+billing-street: P.O Box 1671
+billing-city: Roseau
+billing-country: DM
+
+

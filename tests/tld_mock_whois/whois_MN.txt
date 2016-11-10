@@ -1,0 +1,98 @@
+Access to CCTLD WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the
+Afilias registry database. The data in this record is provided by
+Afilias Limited for informational purposes only, and Afilias does not
+guarantee its accuracy.  This service is intended only for query-based
+access. You agree that you will use this data only for lawful purposes
+and that, under no circumstances will you use this data to: (a) allow,
+enable, or otherwise support the transmission by e-mail, telephone, or
+facsimile of mass unsolicited, commercial advertising or solicitations
+to entities other than the data recipient's own existing customers; or
+(b) enable high volume, automated, electronic processes that send
+queries or data to the systems of Registry Operator, a Registrar, or
+Afilias except as reasonably necessary to register domain names or
+modify existing registrations. All rights reserved. Afilias reserves
+the right to modify these terms at any time. By submitting this query,
+you agree to abide by this policy.
+
+Domain ID:D3520821-LRCC
+Domain Name:EXAMPLE.MN
+Created On:03-Aug-2016 05:32:21 UTC
+Last Updated On:07-Oct-2016 02:01:58 UTC
+Expiration Date:03-Aug-2017 05:32:21 UTC
+Sponsoring Registrar:Datacom Co., Ltd. (R127-LRCC)
+Status:OK
+Registrant ID:DC_29210902
+Registrant Name:Tech
+Registrant Organization:Datacom LLC
+Registrant Street1:Han-Uul district
+Registrant Street2:
+Registrant Street3:
+Registrant City:Ulaanbaatar
+Registrant State/Province:Ulaanbaatar
+Registrant Postal Code:17011
+Registrant Country:MN
+Registrant Phone:+976.321312
+Registrant Phone Ext.:
+Registrant FAX:+976.320210
+Registrant FAX Ext.:
+Registrant Email:tech@datacom.mn
+Admin ID:DC_29210902
+Admin Name:Tech
+Admin Organization:Datacom LLC
+Admin Street1:Han-Uul district
+Admin Street2:
+Admin Street3:
+Admin City:Ulaanbaatar
+Admin State/Province:Ulaanbaatar
+Admin Postal Code:17011
+Admin Country:MN
+Admin Phone:+976.321312
+Admin Phone Ext.:
+Admin FAX:+976.320210
+Admin FAX Ext.:
+Admin Email:tech@datacom.mn
+Billing ID:DC_29210902
+Billing Name:Tech
+Billing Organization:Datacom LLC
+Billing Street1:Han-Uul district
+Billing Street2:
+Billing Street3:
+Billing City:Ulaanbaatar
+Billing State/Province:Ulaanbaatar
+Billing Postal Code:17011
+Billing Country:MN
+Billing Phone:+976.321312
+Billing Phone Ext.:
+Billing FAX:+976.320210
+Billing FAX Ext.:
+Billing Email:tech@datacom.mn
+Tech ID:DC_29210902
+Tech Name:Tech
+Tech Organization:Datacom LLC
+Tech Street1:Han-Uul district
+Tech Street2:
+Tech Street3:
+Tech City:Ulaanbaatar
+Tech State/Province:Ulaanbaatar
+Tech Postal Code:17011
+Tech Country:MN
+Tech Phone:+976.321312
+Tech Phone Ext.:
+Tech FAX:+976.320210
+Tech FAX Ext.:
+Tech Email:tech@datacom.mn
+Name Server:NS2.CP-15.WEBHOSTBOX.NET
+Name Server:NS1.CP-15.WEBHOSTBOX.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+

@@ -1,0 +1,45 @@
+Estonia .ee Top Level Domain WHOIS server
+
+Domain:
+name:       example.ee
+status:     ok (paid and in zone)
+registered: 2010-10-29 15:53:31 +03:00
+changed:    2014-01-13 12:19:29 +02:00
+expire:     2017-10-29
+outzone:
+delete:
+
+Registrant:
+name:    Erki Aring
+email:   Not Disclosed - Visit www.internet.ee for webbased WHOIS
+changed: 2010-10-29 15:53:31 +03:00
+
+Administrative contact:
+name:       Erki Aring
+email:      Not Disclosed - Visit www.internet.ee for webbased WHOIS
+changed:    2010-12-08 12:55:06 +02:00
+
+
+Technical contact:
+name:       Erki Aring
+email:      Not Disclosed - Visit www.internet.ee for webbased WHOIS
+changed:    2010-10-29 15:53:30 +03:00
+
+Registrar:
+name:       Zone Media OÜ
+url:        http://www.zone.ee
+phone:      +372 6886886
+changed:    2016-01-04 18:23:09 +02:00
+
+Name servers:
+nserver:   ns1.example.ee
+nserver:   ns3.example.ee
+nserver:   ns2.example.ee
+changed:   2015-01-28 09:15:04 +02:00
+
+DNSSEC:
+dnskey:   257 3 8 AwEAAdfOpQg8g9mtdCabhfD/K2UIdyTJJ/5ecyRFztM9DT6y781GzIeA/uaLLZC/6EJN8fmtJ4qPahfdqG5GU8FWv3RvDGO/feAxye0LRvlAuw/Kybm8sPTi8ZuORSTaUn4GKhkAm3qebEqsByWZ80B9iEvaGXeUKFxz4u1dzomLq8DEC8bL2qDS9jhmOJSI48GdzhRhzPbMPf2YT5VlrTP0AKv/+xXlm/KMiq88MYQBgSQZim9jVn+aiohzSyd/3J68OXsZAk6bLPtsXqEJTfgruI9PrtZ4oJQHF6hdB3Sd7TC193/gAwKd3PaEPffWDUbLNRUvUJDVp0HmAhPe0RZUYLM=
+changed:  2015-12-01 00:05:06 +02:00
+
+Estonia .ee Top Level Domain WHOIS server
+More information at http://internet.ee

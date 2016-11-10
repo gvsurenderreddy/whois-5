@@ -1,0 +1,21 @@
+[Domain]
+Domain: example.lv
+Status: active
+
+[Holder]
+Type: Natural person
+Email: am@amorozovs.com
+Phone: +371 26441618
+
+[Tech]
+Type: Natural person
+Email: am@amorozovs.com
+Phone: +371 26441618
+
+[Nservers]
+Nserver: ns1.dreamhost.com
+Nserver: ns2.dreamhost.com
+Nserver: ns3.dreamhost.com
+
+[Whois]
+Updated: 2016-11-10T06:12:43.218191+00:00

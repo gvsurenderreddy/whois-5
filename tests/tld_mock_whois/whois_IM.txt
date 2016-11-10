@@ -1,0 +1,44 @@
+Domain Name:	example.IM
+Domain Managers
+Name: 1API GmbH
+Address
+Talstrasse 27
+Homburg
+66424
+Germany
+Domain Owners / Registrant
+Name: TechItMax ADMIN
+Address
+649 Medogate
+Granby
+CT
+06035
+United States
+Administrative Contact
+Name:  TechItMax ADMIN
+Address
+649 Medogate
+Granby
+CT
+06035
+United States
+Billing Contact
+Name: Mr Jens Wagner
+Address
+Talstrasse 27
+Homburg
+Saarland
+66424
+Germany
+Technical Contact
+Name:  TechItMax ADMIN
+Address
+649 Medogate
+Granby
+CT
+06035
+United States
+Domain Details
+Expiry Date: 15/04/2017 00:59:59
+Name Server: ns29.domaincontrol.com.
+Name Server: ns30.domaincontrol.com.

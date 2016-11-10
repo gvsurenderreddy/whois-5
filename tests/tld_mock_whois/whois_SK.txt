@@ -1,0 +1,25 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         example.sk
+Admin-id            ROBE-0360
+Admin-name          Robert Juricek
+Admin-legal-form    zivnost
+Admin-org.-ID       44087012
+Admin-address       J. Ponicana 11, Bratislava 841 08
+Admin-email         sk-nic@example.sk
+Tech-id             WEBS-0001
+Tech-name           Websupport, s.r.o.
+Tech-org.-ID        36421928
+Tech-address        Stare grunty 12, Bratislava 84104
+Tech-email          helpdesk@websupport.sk
+dns_name            ns1.nameserver.sk
+dns_name            ns2.nameserver.sk
+dns_name            ns1.dnsbackup.net
+dns_name            ns2.dnsbackup.net
+Last-update         2016-10-07
+Valid-date          2017-10-06
+Domain-status       DOM_OK
+

@@ -1,0 +1,79 @@
+Access to .IN WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the .IN registry database. The data in this record is provided by .IN Registry for informational purposes only, and .IN does not guarantee its accuracy.  This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to(a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. .IN reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D15302-AFIN
+Domain Name:EXAMPLE.IN
+Created On:31-Dec-2004 18:17:04 UTC
+Last Updated On:31-Dec-2004 18:17:09 UTC
+Expiration Date:31-Dec-2009 18:17:04 UTC
+Sponsoring Registrar:National Informatics Centre (R12-AFIN)
+Status:INACTIVE
+Reason:
+Status:DELETE PROHIBITED
+Reason:
+Status:RENEW PROHIBITED
+Reason:
+Status:TRANSFER PROHIBITED
+Reason:
+Status:UPDATE PROHIBITED
+Reason:
+Registrant ID:RESERVED-1
+Registrant Name:National Internet Exchange of India
+Registrant Organization:
+Registrant Street1:Flat No. 6B, 6th Floor, Uppals M6 Plaza
+Registrant Street2:Jasola District Centre
+Registrant Street3:
+Registrant City:New Delhi
+Registrant State/Province:Delhi
+Registrant Postal Code:110025
+Registrant Country:IN
+Registrant Phone:+91.1148202011
+Registrant Phone Ext.:
+Registrant FAX:+91.1148202013
+Registrant FAX Ext.:
+Registrant Email:registry@nixi.in
+Admin ID:RESERVED-2
+Admin Name:National Internet Exchange of India
+Admin Organization:
+Admin Street1:Flat No. 6B, 6th Floor, Uppals M6 Plaza
+Admin Street2:Jasola District Centre
+Admin Street3:
+Admin City:New Delhi
+Admin State/Province:Delhi
+Admin Postal Code:110025
+Admin Country:IN
+Admin Phone:+91.1148202011
+Admin Phone Ext.:
+Admin FAX:+91.1148202013
+Admin FAX Ext.:
+Admin Email:registry@nixi.in
+Tech ID:RESERVED-2
+Tech Name:National Internet Exchange of India
+Tech Organization:
+Tech Street1:Flat No. 6B, 6th Floor, Uppals M6 Plaza
+Tech Street2:Jasola District Centre
+Tech Street3:
+Tech City:New Delhi
+Tech State/Province:Delhi
+Tech Postal Code:110025
+Tech Country:IN
+Tech Phone:+91.1148202011
+Tech Phone Ext.:
+Tech FAX:+91.1148202013
+Tech FAX Ext.:
+Tech Email:registry@nixi.in
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

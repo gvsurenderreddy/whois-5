@@ -1,0 +1,80 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/products-and-services/services/whois/whois-special-notice/
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [68.41.87.28 REQUEST] >> example.WF
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      example.wf
+status:      ACTIVE
+hold:        NO
+holder-c:    DP11079-FRNIC
+admin-c:     DP11079-FRNIC
+tech-c:      IB3441-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL30021-FRNIC
+registrar:   TLD Registrar Solutions Ltd
+Expiry Date: 25/11/2016
+created:     25/11/2013
+last-update: 26/11/2015
+source:      FRNIC
+
+ns-list:     NSL30021-FRNIC
+nserver:     ns-canada.topdns.com
+nserver:     ns-uk.topdns.com
+nserver:     ns-usa.topdns.com
+source:      FRNIC
+
+registrar:   TLD Registrar Solutions Ltd
+type:        Isp Option 1
+address:     35-39 Moorgate
+address:     Level 1
+address:     EC2R 6AR LONDON
+country:     GB
+phone:       +44 2034357304
+e-mail:      admin@tldregistrarsolutions.com
+anonymous:   NO
+registered:  17/11/2014
+source:      FRNIC
+
+nic-hdl:     DP11079-FRNIC
+type:        PERSON
+contact:     Dirk Pse
+address:     Dirk Pse
+address:     Kaiserstrasse 101
+address:     60308 Frankfurt am Main
+country:     DE
+phone:       +49 17661302366
+e-mail:      dirk@xsm33t.pm
+registrar:   TLD Registrar Solutions Ltd
+changed:     14/07/2016 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     IB3441-FRNIC
+type:        ROLE
+contact:     INTERNET-BS
+address:     Internet.bs Corp.
+address:     98 Hampshire Street
+address:     N4892 Nassau
+address:     BS
+e-mail:      AfnicRoleObject@internet.bs
+admin-c:     MR2133-FRNIC
+tech-c:      MR2133-FRNIC
+registrar:   TLD Registrar Solutions Ltd
+changed:     25/11/2015 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

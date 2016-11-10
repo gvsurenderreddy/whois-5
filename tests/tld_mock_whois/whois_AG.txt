@@ -1,0 +1,84 @@
+Access to CCTLD WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the
+Afilias registry database. The data in this record is provided by
+Afilias Limited for informational purposes only, and Afilias does not
+guarantee its accuracy.  This service is intended only for query-based
+access. You agree that you will use this data only for lawful purposes
+and that, under no circumstances will you use this data to: (a) allow,
+enable, or otherwise support the transmission by e-mail, telephone, or
+facsimile of mass unsolicited, commercial advertising or solicitations
+to entities other than the data recipient's own existing customers; or
+(b) enable high volume, automated, electronic processes that send
+queries or data to the systems of Registry Operator, a Registrar, or
+Afilias except as reasonably necessary to register domain names or
+modify existing registrations. All rights reserved. Afilias reserves
+the right to modify these terms at any time. By submitting this query,
+you agree to abide by this policy.
+
+Domain ID:D51733-LRCC
+Domain Name:EXAMPLE.AG
+Created On:01-Sep-2001 04:00:00 UTC
+Last Updated On:01-Sep-2016 19:25:07 UTC
+Expiration Date:01-Sep-2017 04:00:00 UTC
+Sponsoring Registrar:NicAg Registrar (R32-LRCC)
+Status:OK
+Status:AUTORENEWPERIOD
+Registrant ID:75686
+Registrant Name:Private Registration Services
+Registrant Organization:PR AG Registrations
+Registrant Street1:Upper Long St.
+Registrant Street2:
+Registrant Street3:
+Registrant City:St. John's
+Registrant State/Province:AG
+Registrant Postal Code:00049
+Registrant Country:AG
+Registrant Phone:+268.1234567
+Registrant Phone Ext.:
+Registrant FAX:+268.1234567
+Registrant FAX Ext.:
+Registrant Email:pr@nic.ag
+Admin ID:75687
+Admin Name:Lay, Patrick
+Admin Organization:Nic AG
+Admin Street1:Upper Long St.
+Admin Street2:
+Admin Street3:
+Admin City:St. John'
+Admin State/Province:AG
+Admin Postal Code:n/a
+Admin Country:UM
+Admin Phone:+268.5622556
+Admin Phone Ext.:
+Admin FAX:+268.5622558
+Admin FAX Ext.:
+Admin Email:drlay@nic.ag
+Tech ID:75687
+Tech Name:Lay, Patrick
+Tech Organization:Nic AG
+Tech Street1:Upper Long St.
+Tech Street2:
+Tech Street3:
+Tech City:St. John'
+Tech State/Province:AG
+Tech Postal Code:n/a
+Tech Country:UM
+Tech Phone:+268.5622556
+Tech Phone Ext.:
+Tech FAX:+268.5622558
+Tech FAX Ext.:
+Tech Email:drlay@nic.ag
+Name Server:NS2.NICANTIGUA.COM
+Name Server:NS.NICANTIGUA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+

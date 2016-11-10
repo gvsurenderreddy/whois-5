@@ -1,0 +1,38 @@
+% This is the ISNIC Whois server.
+%
+% Rights restricted by copyright.
+% See https://www.isnic.is/en/about/copyright
+
+domain:       example.is
+registrant:   KBH31-IS
+admin-c:      EH59-IS
+tech-c:       EH59-IS
+zone-c:       EH59-IS
+billing-c:    EH59-IS
+nserver:      ns0.1984.is
+nserver:      ns1.1984.is
+nserver:      ns2.1984.is
+dnssec:       unsigned delegation
+created:      July 12 2011
+expires:      July 12 2017
+source:       ISNIC
+
+person:       Kristján Bjarni Halldórsson
+nic-hdl:      KBH31-IS
+address:      Barmahlíð 11
+address:      IS-550 Sauðárkrókur
+phone:        +354 6914999
+e-mail:       kristjan66@gmail.com
+created:      July 12 2011
+source:       ISNIC
+
+role:         1984 ehf.
+nic-hdl:      EH59-IS
+address:      Fálkagötu 8
+address:      IS-107 Reykjavík
+phone:        +354 5461984
+e-mail:       isnic@1984.is
+created:      April 29 2006
+source:       ISNIC
+
+

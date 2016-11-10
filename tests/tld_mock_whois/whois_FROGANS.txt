@@ -1,0 +1,66 @@
+
+Domain Name: example.frogans
+Registry Domain ID: DOM000000000004-FROGANS
+Registrar WHOIS Server: whois.nic.frogans/
+Registrar URL: http://www.nic.frogans/
+Updated Date: 2016-04-22T17:34:57Z
+Creation Date: 2014-04-22T16:54:15Z
+Registry Expiry Date: 2017-04-22T16:54:15Z
+Registrar: Registry Operations
+Registrar IANA ID: 9999
+Domain Status: inactive  https://icann.org/epp#inactive
+Registry Registrant ID: GA100-FROGANS
+Registrant Name: GRIMBERT AMAURY
+Registrant Organization: OP3FT
+Registrant Street: 6, square Mozart
+Registrant City: Paris
+Registrant State/Province: IDF
+Registrant Postal Code: 75016
+Registrant Country: FR
+Registrant Phone: +33.0153920040
+Registrant Fax: +33.0153922846
+Registrant Email: contact-adm@op3ft.org
+Registry Admin ID: GA100-FROGANS
+Admin Name: GRIMBERT AMAURY
+Admin Organization: OP3FT
+Admin Street: 6, square Mozart
+Admin City: Paris
+Admin State/Province: IDF
+Admin Postal Code: 75016
+Admin Country: FR
+Admin Phone: +33.0153920040
+Admin Fax: +33.0153922846
+Admin Email: contact-adm@op3ft.org
+Registry Tech ID: GA101-FROGANS
+Tech Name: GRIMBERT AMAURY
+Tech Organization: OP3FT
+Tech Street: 6, square Mozart
+Tech City: Paris
+Tech State/Province: IDF
+Tech Postal Code: 75016
+Tech Country: FR
+Tech Phone: +33.0153920040
+Tech Fax: +33.0153922846
+Tech Email: contact-tech@op3ft.org
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2016-11-10T07:58:10Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Rights restricted by copyright.
+Terms of Use : OP3FT's database is protected by the provisions of the French Law of the 1st of July 1998
+transposing the European Directive of the 11th of March 1996 on database legal protection in the Intellectual Property Code.
+
+OP3FT is the only entity to hold the producing rights of the databases as substantial investment, quantitative
+as much as qualitative, that were used to achieve this database.
+Complete or partial reproduction and/or use of OP3FT's database without the express permission of OP3FT
+is strictly forbidden.
+
+Any breach to these rules can carry penal sanctions as counterfeit, without prejudice of a potential damages request from OP3FT,
+holder of these rights. OP3FT's database user commits to use the published data according to the laws
+and rules in effect. Moreover, the user is bound to respect the French Data Protection Law.
+The infringement of the French Data Protection Law can carry penal sanctions. As the user will access personal information,
+the user must refrain from collecting or misuse this information. In a more general way, the user must refrain from any act likely
+to infringe the privacy or reputation of individuals.
+

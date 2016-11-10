@@ -1,0 +1,58 @@
+Whois Results for "example.so".
+
+Domain Name: example.so
+Creation Date: 2010-10-31T17:59:16.0Z
+Last Updated On: 2015-07-07T05:44:24Z
+Expiration Date: 2021-10-31T23:59:59.0Z
+Sponsoring Registrar: sonic
+Status: clientDeleteProhibited
+Status: inactive
+Registry Registrant ID: soregistry-c
+Registrant Internationalized Name: SONIC
+Registrant Internationalized Organization:
+Registrant Internationalized Street: Via Republic
+Registrant Internationalized City: Mogadishu
+Registrant Internationalized State: Benadir
+Registrant Internationalized Postal Code: 1000
+Registrant Internationalized Country: SO
+Registrant Voice Number: +252 61 8250888
+Registrant Fax Number: +252 61 8250991
+Registrant Email: admin@sonic.gov.so
+Registry Admin ID: soregistry-c
+Admin Internationalized Name: SONIC
+Admin Internationalized Organization:
+Admin Internationalized Street: Via Republic
+Admin Internationalized City: Mogadishu
+Admin Internationalized State: Benadir
+Admin Internationalized Postal Code: 1000
+Admin Internationalized Country: SO
+Admin Voice Number: +252 61 8250888
+Admin Fax Number: +252 61 8250991
+Admin Email: admin@sonic.gov.so
+Registry Billing ID: soregistry-c
+Billing Internationalized Name: SONIC
+Billing Internationalized Organization:
+Billing Internationalized Street: Via Republic
+Billing Internationalized City: Mogadishu
+Billing Internationalized State: Benadir
+Billing Internationalized Postal Code: 1000
+Billing Internationalized Country: SO
+Billing Voice Number: +252 61 8250888
+Billing Fax Number: +252 61 8250991
+Billing Email: admin@sonic.gov.so
+Registry Tech ID: soregistry-c
+Tech Internationalized Name: SONIC
+Tech Internationalized Organization:
+Tech Internationalized Street: Via Republic
+Tech Internationalized City: Mogadishu
+Tech Internationalized State: Benadir
+Tech Internationalized Postal Code: 1000
+Tech Internationalized Country: SO
+Tech Voice Number: +252 61 8250888
+Tech Fax Number: +252 61 8250991
+Tech Email: admin@sonic.gov.so
+
+Access to WHOIS information is provided to assist persons in determining
+the contents of a domain name registration record in the registry database.
+The data in this record is provided for informational purposes only without
+any accuracy guarantee.

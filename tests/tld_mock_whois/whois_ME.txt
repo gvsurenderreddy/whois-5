@@ -1,0 +1,57 @@
+Domain Name: EXAMPLE.ME
+Domain ID: D108500000000002602-AGRS
+WHOIS Server:
+Referral URL:
+Updated Date: 2016-04-29T22:45:12Z
+Creation Date: 2008-04-29T17:53:02Z
+Registry Expiry Date: 2017-04-29T17:53:02Z
+Sponsoring Registrar: doMEn reserved
+Sponsoring Registrar IANA ID: 800043
+Domain Status: ok https://icann.org/epp#ok
+Registrant ID: ME-00002
+Registrant Name: doMEn
+Registrant Organization: REGISTRY RESERVED NAME
+Registrant Street: Masa Djurovica 3-1
+Registrant City: Podgorica
+Registrant State/Province:
+Registrant Postal Code: 81000
+Registrant Country: ME
+Registrant Phone: +382.20269740
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: reserved@domain.me
+Admin ID: ME-00002
+Admin Name: doMEn
+Admin Organization: REGISTRY RESERVED NAME
+Admin Street: Masa Djurovica 3-1
+Admin City: Podgorica
+Admin State/Province:
+Admin Postal Code: 81000
+Admin Country: ME
+Admin Phone: +382.20269740
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: reserved@domain.me
+Tech ID: ME-00002
+Tech Name: doMEn
+Tech Organization: REGISTRY RESERVED NAME
+Tech Street: Masa Djurovica 3-1
+Tech City: Podgorica
+Tech State/Province:
+Tech Postal Code: 81000
+Tech Country: ME
+Tech Phone: +382.20269740
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: reserved@domain.me
+Name Server: MNS02.DOMAIN.ME
+Name Server: MNS01.DOMAIN.ME
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2016-11-10T07:59:30Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by The Registry Operator for informational purposes only, and accuracy is not guaranteed.  This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to(a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Registry Operator reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.

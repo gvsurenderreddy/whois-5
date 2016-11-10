@@ -1,0 +1,36 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: EXA106D-NORID
+Domain Name................: example.no
+Domain Holder Handle.......: BDMA7O-NORID
+Registrar Handle...........: REG42-NORID
+Legal-c Handle.............: KAA146P-NORID
+Tech-c Handle..............: KAA146P-NORID
+Name Server Handle.........: NSBE51H-NORID
+Name Server Handle.........: NSBE52H-NORID
+
+Additional information:
+Created:         2005-11-09
+Last updated:    2016-10-14
+
+NORID Handle...............: BDMA7O-NORID
+Type.......................: organization
+Name.......................: BETADOME DIGITAL MEDIA Akerø
+Id Type....................: organization_number
+Id Number..................: 981913124
+Registrar Handle...........: REG42-NORID
+Post Address...............: Haugvegen 42
+Postal Code................: NO-6015
+Postal Area................: Ålesund
+Country....................: NO
+Phone Number...............: +47.70100070
+Fax Number.................: +47.70100071
+Email Address..............: domains@betadome.com
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2014-10-21
+

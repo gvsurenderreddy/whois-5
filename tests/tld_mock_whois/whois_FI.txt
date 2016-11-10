@@ -1,0 +1,34 @@
+
+domain.............: example.fi
+status.............: Registered
+created............: 7.8.2009
+expires............: 7.8.2017
+available..........: 7.9.2017
+modified...........: 17.10.2016
+RegistryLock.......: no
+
+Nameservers
+
+nserver............: ns3.he.net [OK]
+nserver............: ns2.he.net [OK]
+nserver............: ns4.he.net [OK]
+nserver............: ns1.he.net [OK]
+nserver............: ns5.he.net [OK]
+dnssec.............: unsigned delegation
+
+Holder
+
+family name........: Vesanen
+first name.........:  Juho Heikki
+holder email.......:
+
+Registrar
+
+registrar..........: -
+www................:
+
+>>> Last update of WHOIS database: 10.11.2016 9:45:21 (EET) <<<
+
+
+Copyright (c) Finnish Communications Regulatory Authority
+

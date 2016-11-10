@@ -1,0 +1,40 @@
+%
+%AM TLD whois server #2
+%
+
+   Domain name: example.am
+   Registrar:   globalar (GlobalAR LLC)
+   Status:      active
+
+   Registrant:
+      Margarita Hovhannisyan
+      Hanrapetutyan 49
+      Yerevan,  0010
+      AM
+
+   Administrative contact:
+      GlobalAR LLC
+      GlobalAR LLC
+      Hanrapetutyan 49
+      Yerevan, 0010
+      AM
+      tengiz@globalr.com
+      37460401011
+
+   Technical contact:
+      GlobalAR LLC
+      GlobalAR LLC
+      Hanrapetutyan 49
+      Yerevan, 0010
+      AM
+      tengiz@globalr.com
+      37460401011
+
+   DNS servers:
+      ns1.sedoparking.com
+      ns2.sedoparking.com
+
+   Registered:    2015-10-19
+   Last modified: 2016-10-29
+   Expires:       2018-10-19
+

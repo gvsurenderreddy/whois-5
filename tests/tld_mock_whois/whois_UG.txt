@@ -1,0 +1,32 @@
+
+**********************************************************
+*            The UG ccTLD Registry Database              *
+**********************************************************
+
+Domain:             example.ug
+Description:        Vas Garage Uganda Ltd. (Vas Garage Uganda Ltd.)
+Registered:         11th May, 2015
+Expiry:             (null)
+Status:             DISABLED
+Admin Contact:      Ronald Adonyo
+Tech Contact:       Ronald Adonyo
+Nameserver:         ns1.cfi.co.ug
+Nameserver:         ns2.cfi.co.ug
+MNT-BY:             MAINT-UG
+Source:             UG
+Updated:            11/05/2015 14:13:19 EAT
+
+Admin Contact:      Ronald Adonyo
+Address:            Plot 9 Copper Road, Kololo
+Address:             00256
+City:               Kampala
+Country:            Uganda
+Phone:              +256706297470
+Tech Contact:       Ronald Adonyo
+Address:            Plot 9 Copper Road, Kololo
+Address:            00256
+City:               Kampala
+Country:            Uganda
+Phone:              +256706297470
+Updated:            11/05/2015 14:13:19 EAT
+

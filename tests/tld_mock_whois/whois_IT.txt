@@ -1,0 +1,35 @@
+
+*********************************************************************
+* Please note that the following result could be a subgroup of      *
+* the data contained in the database.                               *
+*                                                                   *
+* Additional information can be visualized at:                      *
+* http://www.nic.it/cgi-bin/Whois/whois.cgi                         *
+*********************************************************************
+
+Domain:             example.it
+Status:             ok
+Created:            2009-10-01 11:34:02
+Last Update:        2016-11-05 00:47:55
+Expire Date:        2017-10-20
+
+Registrant
+  Organization:     Mario Grippo
+
+Admin Contact
+  Name:             Mario Grippo
+  Organization:     Mario Grippo
+
+Technical Contacts
+  Name:             solodom.ch - Tech Support | Your Swiss Professional Domain Hunter
+  Organization:     solodom.ch | Bid for your premium domain name at www.solodom.ch
+
+Registrar
+  Organization:     SOLODOM Sagl
+  Name:             SOLODOM-REG
+  Web:              http://www.solodom.ch
+
+Nameservers
+  ns8084.hostgator.com
+  ns8083.hostgator.com
+

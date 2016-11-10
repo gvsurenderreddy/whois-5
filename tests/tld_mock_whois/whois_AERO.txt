@@ -1,0 +1,104 @@
+Access to .AERO WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the
+Afilias registry database. The data in this record is provided by
+Afilias Limited for informational purposes only, and Afilias does not
+guarantee its accuracy.  This service is intended only for query-based
+access. You agree that you will use this data only for lawful purposes
+and that, under no circumstances will you use this data to: (a) allow,
+enable, or otherwise support the transmission by e-mail, telephone, or
+facsimile of mass unsolicited, commercial advertising or solicitations
+to entities other than the data recipient's own existing customers; or
+(b) enable high volume, automated, electronic processes that send
+queries or data to the systems of Registry Operator, a Registrar, or
+Afilias except as reasonably necessary to register domain names or
+modify existing registrations. All rights reserved. Afilias reserves
+the right to modify these terms at any time. By submitting this query,
+you agree to abide by this policy.
+
+For more information on Whois status codes, please visit https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en.
+
+Domain ID:D1169-AERO
+Domain Name:EXAMPLE.AERO
+ENS_AuthId:E00001-SITA
+Created On:30-Jul-2002 16:08:39 UTC
+Expires On:30-Jul-2017 16:08:39 UTC
+Updated On:31-Jul-2016 06:35:03 UTC
+Created By:SITA (9999)
+Updated By:Afilias Internal (984)
+Sponsoring Registrar:SITA (9999)
+Domain Status:ok -- http://www.icann.org/epp#ok
+Maintainer:http://www.information.aero/reservednames.php
+Registrant ID:C4697979-AERO
+Registrant Name:Reserved name. See maintainer field for details
+Registrant Organization:SITA sc
+Registrant Street1:26 chemin de Joinville
+Registrant Street2:
+Registrant Street3:
+Registrant City:Geneva
+Registrant State/Province:Geneva
+Registrant Postal Code:1216
+Registrant Country:CH
+Registrant Phone:+41.227476070
+Registrant Phone Ext.:
+Registrant FAX:+1.2126849277
+Registrant FAX Ext.:
+Registrant Email:aero.enquiries@sita.aero
+Admin ID:C4697979-AERO
+Admin Name:Reserved name. See maintainer field for details
+Admin Organization:SITA sc
+Admin Street1:26 chemin de Joinville
+Admin Street2:
+Admin Street3:
+Admin City:Geneva
+Admin State/Province:Geneva
+Admin Postal Code:1216
+Admin Country:CH
+Admin Phone:+41.227476070
+Admin Phone Ext.:
+Admin FAX:+1.2126849277
+Admin FAX Ext.:
+Admin Email:aero.enquiries@sita.aero
+Billing ID:C4697979-AERO
+Billing Name:Reserved name. See maintainer field for details
+Billing Organization:SITA sc
+Billing Street1:26 chemin de Joinville
+Billing Street2:
+Billing Street3:
+Billing City:Geneva
+Billing State/Province:Geneva
+Billing Postal Code:1216
+Billing Country:CH
+Billing Phone:+41.227476070
+Billing Phone Ext.:
+Billing FAX:+1.2126849277
+Billing FAX Ext.:
+Billing Email:aero.enquiries@sita.aero
+Tech ID:C4697979-AERO
+Tech Name:Reserved name. See maintainer field for details
+Tech Organization:SITA sc
+Tech Street1:26 chemin de Joinville
+Tech Street2:
+Tech Street3:
+Tech City:Geneva
+Tech State/Province:Geneva
+Tech Postal Code:1216
+Tech Country:CH
+Tech Phone:+41.227476070
+Tech Phone Ext.:
+Tech FAX:+1.2126849277
+Tech FAX Ext.:
+Tech Email:aero.enquiries@sita.aero
+Name Server:RESERVED.NIC.AERO
+Name Server:DNS2.CORENIC.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+

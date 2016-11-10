@@ -1,0 +1,83 @@
+Domain Name: EXAMPLE.FM
+Domain ID: D34858144-CNIC
+WHOIS Server: whois.gandi.net
+Referral URL: http://www.gandi.net/
+Updated Date: 2016-08-02T16:57:44.0Z
+Creation Date: 2014-05-20T23:59:59.0Z
+Registry Expiry Date: 2017-05-20T23:59:59.0Z
+Sponsoring Registrar: Gandi SAS
+Sponsoring Registrar IANA ID: 81
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Registrant ID: C78384169-CNIC
+Registrant Name: Robert Norris
+Registrant Organization: FastMail Pty. Ltd.
+Registrant Street: Level 1, 91 William St
+Registrant City: Melbourne
+Registrant State/Province: VIC
+Registrant Postal Code: 3000
+Registrant Country: AU
+Registrant Phone: +61.399995477
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: 5818cc9e817175c6170289b7437d951d-1854096@contact.gandi.net
+Admin ID: C78384169-CNIC
+Admin Name: Robert Norris
+Admin Organization: FastMail Pty. Ltd.
+Admin Street: Level 1, 91 William St
+Admin City: Melbourne
+Admin State/Province: VIC
+Admin Postal Code: 3000
+Admin Country: AU
+Admin Phone: +61.399995477
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: 5818cc9e817175c6170289b7437d951d-1854096@contact.gandi.net
+Tech ID: C78384169-CNIC
+Tech Name: Robert Norris
+Tech Organization: FastMail Pty. Ltd.
+Tech Street: Level 1, 91 William St
+Tech City: Melbourne
+Tech State/Province: VIC
+Tech Postal Code: 3000
+Tech Country: AU
+Tech Phone: +61.399995477
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: 5818cc9e817175c6170289b7437d951d-1854096@contact.gandi.net
+Name Server: NS1.MESSAGINGENGINE.COM
+Name Server: NS2.MESSAGINGENGINE.COM
+DNSSEC: unsigned
+Billing ID: C78384169-CNIC
+Billing Name: Robert Norris
+Billing Organization: FastMail Pty. Ltd.
+Billing Street: Level 1, 91 William St
+Billing City: Melbourne
+Billing State/Province: VIC
+Billing Postal Code: 3000
+Billing Country: AU
+Billing Phone: +61.399995477
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email: 5818cc9e817175c6170289b7437d951d-1854096@contact.gandi.net
+>>> Last update of WHOIS database: 2016-11-10T07:58:07.0Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+This whois service is provided by CentralNic Ltd and only contains
+information pertaining to Internet domain names registered by our
+our customers. By using this service you are agreeing (1) not to use any
+information presented here for any purpose other than determining
+ownership of domain names, (2) not to store or reproduce this data in
+any way, (3) not to use any high-volume, automated, electronic processes
+to obtain data from this service. Abuse of this service is monitored and
+actions in contravention of these terms will result in being permanently
+blacklisted. All data is (c) CentralNic Ltd https://www.centralnic.com/
+
+Access to the whois service is rate limited. For more information, please
+see https://registrar-console.centralnic.com/pub/whois_guidance.
+

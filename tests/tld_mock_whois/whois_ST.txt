@@ -1,0 +1,90 @@
+Whois Server Version 3.2.2
+
+.ST domains can now be registered with many different competing registrars. Go to http://www.registry.st/registrars for detailed information.
+
+Domain Name: example.st
+Registrar: Reserved by ST Registry
+Name Server: ns3.nic.st
+Name Server: ns2.nic.st
+Name Server: ns1.nic.st
+Name Server: ns3.example.st
+Status: ok
+Updated Date: 2014-11-18
+Creation Date: 2013-02-08
+Expiration Date: 2018-02-08
+
+>>> Last update of whois database: Thu Nov 10 08:03:46 2016 UTC <<<
+
+The data in the ST Registry WHOIS database is provided by The Domain Council of
+Sao Tome and Principe for information purposes.
+
+The ST Registry does not guarantee its accuracy.
+
+The data in the WHOIS database is protected by copyright.
+
+By submitting a WHOIS query, you agree that you will use this data according with
+the terms and policy that is publicly available on http://www.nic.st/terms_of_service
+and that you under no circumstances will use this data to allow, enable, or
+otherwise support the transmission of mass unsolicited commercial advertising or
+solicitations via e-mail (spam).
+
+The Domain Council of Sao Tome reserves the right to modify these terms at any time.
+
+DOMAIN: example.st
+
+REGISTRATION-SERVICE-PROVIDER: Reserved by ST Registry
+URL: www.nic.st
+
+created-date:    2013-02-08 13:42:51
+updated-date:    2014-11-18 18:59:37
+expiration-date: 2018-02-08 22:59:59
+
+registrant-organization: ST Registry
+registrant-name:         ST Registry (STR546B887E6D71A)
+registrant-street:       Karlavägen 81
+registrant-city:         Stockholm
+registrant-state:
+registrant-zip:
+registrant-country:      SE
+registrant-phone:
+registrant-fax:
+registrant-email:        support@nic.st
+
+admin-organization: ST Registry
+admin-name:         ST Registry (STR546B887E708CF)
+admin-street:       Karlavägen 81
+admin-city:         Stockholm
+admin-state:
+admin-zip:
+admin-country:      SE
+admin-phone:
+admin-fax:
+admin-email:        support@nic.st
+
+tech-organization: ST Registry
+tech-name:         ST Registry (STR546B887E71AF9)
+tech-street:       Karlavägen 81
+tech-city:         Stockholm
+tech-state:
+tech-zip:
+tech-country:      SE
+tech-phone:
+tech-fax:
+tech-email:        support@nic.st
+
+billing-organization: ST Registry
+billing-name:         ST Registry (STR546B887E6F5FF)
+billing-street:       Karlavägen 81
+billing-city:         Stockholm
+billing-state:
+billing-zip:
+billing-country:      SE
+billing-phone:
+billing-fax:
+billing-email:        support@nic.st
+
+nameserver: ns3.nic.st
+nameserver: ns2.nic.st
+nameserver: ns1.nic.st
+nameserver: ns3.example.st
+

@@ -1,0 +1,18 @@
+
+Domain : example.io
+Status : Live
+Expiry : 2017-11-22
+
+NS 1   : dns1.registrar-servers.com
+NS 2   : dns2.registrar-servers.com
+
+Owner Name    : WhoisGuard Protected
+Owner OrgName : WhoisGuard, Inc.
+Owner Addr    : P.O. Box 0823-03411
+Owner Addr    : Panama
+Owner Addr    : Panama
+Owner Addr    : PA
+
+Check for 'example.sh' --- http://www.nic.sh/go/whois/example.sh
+Check for 'example.ac' --- http://www.nic.ac/go/whois/example.ac
+

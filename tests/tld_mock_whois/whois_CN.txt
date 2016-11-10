@@ -1,0 +1,14 @@
+Domain Name: example.cn
+ROID: 20050505s10001s11652376-cn
+Domain Status: clientDeleteProhibited
+Domain Status: clientUpdateProhibited
+Domain Status: clientTransferProhibited
+Registrant ID: agent2899-0
+Registrant: 中信安控科技股份有限公司
+Registrant Contact Email: zxakkj@163.com
+Sponsoring Registrar: Canada 001 names Ltd.
+Name Server: dns8.66.cn
+Name Server: dns9.66.cn
+Registration Time: 2005-05-05 05:38:46
+Expiration Time: 2022-05-05 05:38:46
+DNSSEC: unsigned

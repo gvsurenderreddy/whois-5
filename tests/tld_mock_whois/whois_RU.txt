@@ -1,0 +1,19 @@
+% By submitting a query to RIPN's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.ripn.net/about/servpol.html#3.2 (in Russian)
+% http://www.ripn.net/about/en/servpol.html#3.2 (in English).
+
+domain:        EXAMPLE.RU
+nserver:       ns1.poishi.com.
+nserver:       ns2.poishi.com.
+state:         REGISTERED, DELEGATED, VERIFIED
+org:           Tevron Ltd
+registrar:     RU-CENTER-RU
+admin-contact: https://www.nic.ru/whois
+created:       2000.04.20
+paid-till:     2017.05.01
+free-date:     2017.06.01
+source:        TCI
+
+Last updated on 2016.11.10 11:01:34 MSK
+

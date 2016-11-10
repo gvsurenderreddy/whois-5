@@ -1,0 +1,63 @@
+
+   Domain name:
+      EXAMPLE.TK is Active
+
+   Owner contact:
+      Organization: N/A
+      Name:         Stichting OpenTLD WHOIS Proxy
+      Address:      Keizersgracht 213
+      Zipcode:      1016DT
+      City:         Amsterdam
+      State:        Noord-Holland
+      Country:      Netherlands
+      Phone:        +31205315729
+      Fax:          +31205315721
+      E-mail:       effd0719e5582bb6.shielded@idshield.tk
+
+   Admin contact:
+      Organization: N/A
+      Name:         Stichting OpenTLD WHOIS Proxy
+      Address:      Keizersgracht 213
+      Zipcode:      1016DT
+      City:         Amsterdam
+      State:        Noord-Holland
+      Country:      Netherlands
+      Phone:        +31205315729
+      Fax:          +31205315721
+      E-mail:       effd0719e5582bb6.shielded@idshield.tk
+
+   Billing contact:
+      Organization: N/A
+      Name:         Stichting OpenTLD WHOIS Proxy
+      Address:      Keizersgracht 213
+      Zipcode:      1016DT
+      City:         Amsterdam
+      State:        Noord-Holland
+      Country:      Netherlands
+      Phone:        +31205315729
+      Fax:          +31205315721
+      E-mail:       effd0719e5582bb6.shielded@idshield.tk
+
+   Tech contact:
+      Organization: N/A
+      Name:         Stichting OpenTLD WHOIS Proxy
+      Address:      Keizersgracht 213
+      Zipcode:      1016DT
+      City:         Amsterdam
+      State:        Noord-Holland
+      Country:      Netherlands
+      Phone:        +31205315729
+      Fax:          +31205315721
+      E-mail:       effd0719e5582bb6.shielded@idshield.tk
+
+   Domain Nameservers:
+      NS01.FREENOM.COM
+      NS02.FREENOM.COM
+      NS03.FREENOM.COM
+      NS04.FREENOM.COM
+
+
+   Domain registered: 02/06/2016
+   Record will expire on: 02/06/2017
+   Record maintained by: Dot TK Domain Registry
+

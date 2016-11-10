@@ -1,0 +1,55 @@
+query : example.kr
+
+
+# KOREAN(UTF8)
+
+도메인이름                  : example.kr
+등록인                      : 관리자
+책임자                      : 관리자
+책임자 전자우편             : cio@3v.net
+등록일                      : 2007. 03. 13.
+최근 정보 변경일            : 2015. 02. 12.
+사용 종료일                 : 2017. 03. 13.
+정보공개여부                : N
+등록대행자                  : (주)가비아(http://www.gabia.co.kr)
+DNSSEC                      : 미서명
+
+1차 네임서버 정보
+   호스트이름               : ns1.comn.com
+
+2차 네임서버 정보
+   호스트이름               : ns2.comn.com
+
+네임서버 이름이 .kr이 아닌 경우는 IP주소가 보이지 않습니다.
+
+
+# ENGLISH
+
+Domain Name                 : example.kr
+Registrant                  : 3v Networks
+Administrative Contact(AC)  : 3v Networks
+AC E-Mail                   : cio@3v.net
+Registered Date             : 2007. 03. 13.
+Last Updated Date           : 2015. 02. 12.
+Expiration Date             : 2017. 03. 13.
+Publishes                   : N
+Authorized Agency           : Gabia, Inc.(http://www.gabia.co.kr)
+DNSSEC                      : unsigned
+
+Primary Name Server
+   Host Name                : ns1.comn.com
+
+Secondary Name Server
+   Host Name                : ns2.comn.com
+
+
+상기 정보는 UTF-8 인코딩되어 서비스되고 있습니다.
+EUC-KR 인코딩 서비스는 oldwhois.kisa.or.kr에서 서비스 되고 있습니다.
+The above information is encoded with UTF-8
+EUC-KR encoding WHOIS is being serviced in this URL:oldwhois.kisa.or.kr
+
+
+- KISA/KRNIC WHOIS Service -
+
+
+

@@ -1,0 +1,20 @@
+
+Domain : example.sh
+Status : Live
+Expiry : 2017-08-13
+
+NS 1   : ns2.gehirndns.jp
+NS 2   : ns2.gehirndns.com
+NS 3   : ns2.gehirndns.org
+NS 4   : ns2.gehirndns.net
+
+Owner Name    : Daiki Ishimori
+Owner OrgName : AbelProject
+Owner Addr    : Watanoha aza shimoenokidan 93-3 None
+Owner Addr    : Ishinomaki-city
+Owner Addr    : Miyagi-ken
+Owner Addr    : JP
+
+Check for 'example.ac' --- http://www.nic.ac/go/whois/example.ac
+Check for 'example.io' --- http://www.nic.io/go/whois/example.io
+
