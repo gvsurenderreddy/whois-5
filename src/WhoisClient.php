@@ -4,5 +4,4 @@ namespace Layerworx\Whois;
 
 class WhoisClient
 {
-
 }
