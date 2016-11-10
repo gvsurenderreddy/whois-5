@@ -1,0 +1,34 @@
+{
+  "name": "layerworx/whois",
+  "description": "A PHP interface into querying whois information.",
+  "type": "library",
+  "license": "MIT",
+  "keywords": [
+    "domain",
+    "whois"
+  ],
+  "support": {
+    "issues": "https://github.com/layerworx/whois/issues",
+    "source": "https://github.com/layerworx/whois"
+  },
+  "authors": [
+    {
+      "name": "Steven Crothers",
+      "email": "steven.crothers@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Layerworx\\Whois\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Layerworx\\Whois\\Tests\\": "tests/"
+    }
+  },
+  "require": {},
+  "require-dev": {
+    "phpunit/phpunit": "~5.0"
+  }
+}
